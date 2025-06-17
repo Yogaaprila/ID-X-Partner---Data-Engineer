@@ -1,6 +1,6 @@
 # ETL Pipeline and Data Warehouse Project - ID/X Partners Data Engineer
 
-## 📌 Project Overview
+## Project Overview
 
 This project aims to build a data warehouse using an ETL pipeline implemented with **SQL Server Management Studio (SSMS 19)** and **Python**. The project consists of the following steps:
 
@@ -20,7 +20,7 @@ This project aims to build a data warehouse using an ETL pipeline implemented wi
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **SQL Server Management Studio (SSMS) 19**
 - **Python** (JupyterLab)
